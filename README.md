@@ -2,4 +2,6 @@
 
 pip install git+https://github.com/JustAnotherArchivist/snscrape
 
-py -m pip install discord.py
+pip install discord.py
+
+pip install python-dotenv
